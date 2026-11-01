@@ -1,0 +1,6 @@
+{
+  "name": "NeuroGround",
+  "description": "Evidence-based neuroscience psychoeducation and grounding companion with interactive somatic tools, crisis resources, and reality-anchoring guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
